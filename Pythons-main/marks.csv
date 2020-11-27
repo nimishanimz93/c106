@@ -1,0 +1,10 @@
+subject,marks,exam
+eng, 95, e1
+eng, 90, e2
+eng, 100, e3
+math, 75, e1
+math, 85, e2
+math, 95, e3
+science, 80, e1
+science, 80, e2
+science, 75, e3
